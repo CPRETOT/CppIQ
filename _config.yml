@@ -1,6 +1,6 @@
 # Base blog settings
 baseurl                      : ""
-url                          : "https://cpretot.github.io/alembic"
+url                          : "https://cpretot.github.io/cppiq"
 
 blog:
   title                      : CppIQ
@@ -31,10 +31,8 @@ author:
   stackoverflow             :
   disqus                    :
   google_analytics          :
-  photo                     :
-  photo2x                   :
-
-
+  photo                     : "uploads/me.png"
+  photo2x                   : "uploads/me2.png"
 
 ## !!
 ## Advanced blog settings
