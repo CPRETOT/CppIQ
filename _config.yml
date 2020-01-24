@@ -8,7 +8,7 @@ blog:
                                Une description à finir
 
 # Layout configuration
-  logo_path                  :  # path to logo file
+  logo_path                  : "asset/img/logo.svg" # path to logo file
   search_path                :
   hero_layout                : false # turn on hero layout for blog and posts
   hero_placeholder           :
