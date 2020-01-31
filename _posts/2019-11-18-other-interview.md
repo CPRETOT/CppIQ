@@ -6,19 +6,19 @@ tags:
 published: true
 
 ---
-Presentation de l'interview numero 2 sur John Doe ...
+Presentation de l'interview numero 2 avec Batman
 {: .lead}
 <!–-break-–>
 
 Ceci est du texte
 
 ## Titre
-Plus de texte
+Batman est le frère de Tarzan
 
 A link to the [kramdown hp].
 
 ## Sous titre
-Encore plus de texte
+Tarzan a une soeur
 
 
 
