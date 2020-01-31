@@ -19,4 +19,16 @@ published: true
 
 ##### Il s’agit donc pour nous de détecter les meilleurs projets, sans aucune limite géographique ni de stade de maturité, écrits en C++ moderne, et ainsi d’indiquer à nos lecteurs et adhérents pourquoi l’auteur a fait le choix du C++ moderne et ce que cela apporte de nouveau pour lui, et pour nous. Notre attention se portera principalement sur les logiciels Open Source afin d’être confrontés à la plus large communauté C++ possible et recueillir un maximum d'avis, et aussi de ne pas porter préjudice à l’environnement professionnel de chacun des membres et auteurs de CppIQ.
 
+Nous sélectionnerons les projets en priorité suivant les 3 points principaux cités ci-dessous :
+
+- La rupture technologique/intérêt technique.
+
+- L’intérêt général, qu’il soit lié au social, à la santé, l’accessibilité à de nouvelles technologies et savoir dans tout endroit du monde, ou encore à l’écologie.
+
+- L’intérêt pour la communauté C++ afin de promouvoir le langage (ex : nouveaux outils simplifiant la vie des développeurs).
+
+Nous n’excluons aucun domaine d’activité si la solution logicielle présente de réels atouts techniques mais bien-sûr nous ne verrons jamais de logiciels malveillants.
+
+De plus, nous pensons qu’assurer la pérennité, le bon fonctionnement et l’évolutivité des logiciels C++ Open Source pour le monde de l’industrie, c’est aussi assurer la pérennité du langage lui-même.
+
 </div>
