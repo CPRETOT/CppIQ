@@ -18,13 +18,13 @@ blog:
 
 # Fonts
   font                       : '"Helvetica Neue", "Helvetica Neue", sans-serif'
-  load_google_fonts          : 'Helvetica Neue:600,400italic,700,700italic'
+  load_google_fonts          : 'Helvetica Neue:400,400italic,700,700italic'
 
 # Author info
 author:
-  fullname                  : CppIQ Association
+  fullname                  : CppIQ
   rss                       : false # generate RSS feed and show it's icon in header
-  mail                      : charles.pretot@cppiq.com # change to your e-mail address
+  mail                      : contact@cppiq.com # change to your e-mail address
   twitter                   :
   github                    :
   youtube                   :
