@@ -4,7 +4,7 @@ url                          : "https://cpretot.github.io/cppiq"
 
 blog:
   title                      : CppIQ
-  description                  : >
+  description                : >
                                Une description à finir
 
 # Layout configuration
@@ -18,7 +18,7 @@ blog:
 
 # Fonts
   font                       : '"Helvetica Neue", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif'
-  load_google_fonts          : 'Helvetica Neue:400,400italic,700,700italic'
+  load_google_fonts          : 'Helvetica Neue:600,400italic,700,700italic'
 
 # Author info
 author:
