@@ -1,6 +1,6 @@
 ---
 layout: page
-title: À propos
+title:
 permalink: /a-propos/
 published: true
 ---
@@ -8,7 +8,7 @@ published: true
 <div class="page" markdown="1">
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-## Présentation
+## À propos de CppIQ
 
 
 CppIQ a pour objectif de mettre en valeur les nouvelles normes du C++ et se place en tant que spectateur des nouveaux projets utilisant celles-ci. C'est un tout nouveau canal de diffusion permettant aux auteurs de s'exprimer pleinement et librement.
