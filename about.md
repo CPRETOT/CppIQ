@@ -5,7 +5,7 @@ permalink: /a-propos/
 published: true
 ---
 
-<div class="page" markdown="1">
+<div class="page" markdown="2">
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
 ## Présentation
