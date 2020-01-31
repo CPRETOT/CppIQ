@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A propos
+title: À propos
 permalink: /a-propos/
 published: true
 ---
@@ -10,6 +10,6 @@ published: true
 
 ## Some heading
 
-Ceci décrit la page CPPIQ
+Première présentation afin de tester la fonte et l'espace disponible de la présentation
 
 </div>
